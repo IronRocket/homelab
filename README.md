@@ -30,7 +30,6 @@ flowchart TB
     Minecraft Server"]
 
     Internet --> Router
-    Router --> Switch
     Router -. Wi-Fi .-> PC
     PC -->|Ethernet| Switch
 
